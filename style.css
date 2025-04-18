@@ -121,7 +121,7 @@ nav ul li a:hover::after {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: url('images/home2.jpeg') no-repeat center center/cover;
+    background: url('images/hm.jpg') no-repeat center center/cover;
     display: flex;
     align-items: center;
     position: relative;
